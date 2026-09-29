@@ -1,4 +1,4 @@
-package me.kropka8o.horsymarketbackend.Models;
+package me.kropka8o.horsymarketbackend.models;
 
 import lombok.NonNull;
 

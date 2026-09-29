@@ -1,8 +1,8 @@
-package me.kropka8o.horsymarketbackend.Models;
+package me.kropka8o.horsymarketbackend.models;
 
 import lombok.NonNull;
 
-public class Roll {
+public class Role {
     @NonNull
     private int id;
     @NonNull

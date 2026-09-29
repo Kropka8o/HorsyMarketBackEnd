@@ -1,4 +1,4 @@
-package com.example.horsymarketbackend;
+package me.kropka8o.horsymarketbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

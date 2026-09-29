@@ -1,4 +1,4 @@
-package me.kropka8o.horsymarketbackend.Models;
+package me.kropka8o.horsymarketbackend.models;
 
 import jakarta.annotation.Nullable;
 import lombok.NonNull;
@@ -11,7 +11,7 @@ public class User {
     @NonNull
     private String name;
     @Nullable
-    private int kvkNum;
+    private int kvkNumber;
     @Nullable
     private String businessName;
     @Nullable
